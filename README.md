@@ -43,9 +43,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img width="419" alt="T_Test_image_4" src="https://user-images.githubusercontent.com/60076980/162356518-f0450494-fa74-4818-99bc-1a51ca45ebba.png">
 
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
+For many consumers the city and highway fuel efficiency are very important factors when purchasing a vehicle.To test MechaCar's fuel efficiency against the competition we will need to create a null and alternative hypothesis.
+
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
+
+**Null hypothesis-** MechaCar will not have a significantly higher MPG than the competition.
+**Alternative hypothesis-** MechaCar will have a significantly higher MPG than the competition.
