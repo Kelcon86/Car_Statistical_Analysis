@@ -30,19 +30,16 @@ In your README, create a subheading ## Summary Statistics on Suspension Coils, a
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-The p value is 1 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted
+### T-test
 <img width="420" alt="T-Test_image_1" src="https://user-images.githubusercontent.com/60076980/162356491-e5319822-141f-41d4-8954-3ab2dfab321b.png">
 
 ### Lot 1
-The p value is 1.568e-11 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted.
 <img width="434" alt="T-Test_image_2" src="https://user-images.githubusercontent.com/60076980/162356501-575d6350-7278-4b3a-ae72-6b62494a5e88.png">
 
 ### Lot 2
-The p value is 0.0005911 which is less than 0.05 and is therfore significant so the null hypothesis can be rejected.
 <img width="415" alt="T_Test_image_3" src="https://user-images.githubusercontent.com/60076980/162356507-e38e74e3-e063-4b91-9154-0c3413207307.png">
 
 ### Lot 3
-The p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
 <img width="419" alt="T_Test_image_4" src="https://user-images.githubusercontent.com/60076980/162356518-f0450494-fa74-4818-99bc-1a51ca45ebba.png">
 
 ## Study Design: MechaCar vs Competition
