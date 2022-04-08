@@ -5,6 +5,9 @@ After you’ve completed the technical analysis for each deliverable, provide a 
 ## Linear Regression to Predict MPG
 In your README, create a subheading, ## Linear Regression to Predict MPG, and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
+<img width="646" alt="Deliverable1_image" src="https://user-images.githubusercontent.com/60076980/162353833-ad16c44d-4751-4c6a-bf38-6dfa6081ccb3.png">
+
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
