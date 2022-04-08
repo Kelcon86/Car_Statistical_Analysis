@@ -26,3 +26,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img width="434" alt="T-Test_image_2" src="https://user-images.githubusercontent.com/60076980/162356501-575d6350-7278-4b3a-ae72-6b62494a5e88.png">
 <img width="415" alt="T_Test_image_3" src="https://user-images.githubusercontent.com/60076980/162356507-e38e74e3-e063-4b91-9154-0c3413207307.png">
 <img width="419" alt="T_Test_image_4" src="https://user-images.githubusercontent.com/60076980/162356518-f0450494-fa74-4818-99bc-1a51ca45ebba.png">
+
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
