@@ -36,9 +36,11 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 ### T-test
 I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
+The p value is .06 which is greater than 0.05 and is therefore not significant and the null hypothesis can be accepted.
 <img width="420" alt="T-Test_image_1" src="https://user-images.githubusercontent.com/60076980/162356491-e5319822-141f-41d4-8954-3ab2dfab321b.png">
 
 ### Lot 1
+
 <img width="434" alt="T-Test_image_2" src="https://user-images.githubusercontent.com/60076980/162356501-575d6350-7278-4b3a-ae72-6b62494a5e88.png">
 
 ### Lot 2
