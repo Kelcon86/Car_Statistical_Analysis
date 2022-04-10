@@ -17,9 +17,11 @@ The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCar
 <img width="646" alt="Deliverable1_image" src="https://user-images.githubusercontent.com/60076980/162353833-ad16c44d-4751-4c6a-bf38-6dfa6081ccb3.png">
 
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+-- There are no variables that provide a non-random amount of variance to the mpg values in the dataset because the pr(>|t|) value is greater than 0.05. Since there is no significant impact on the mpg values and we can reject the null hypothesis.
+
+-- The slope of the linear model is not considered to be zero because all the variables/coefficients are directly proportional to the mpg values.
+
+-- The p value of the multiple linear regression is 5.35e-11, which is higher than 0.05 and is not signficant, therefore the linear model does not predict mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using R, I created a summary statistics table to show:
