@@ -22,15 +22,18 @@ Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
-In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using R, I created a summary statistics table to show:
+
+-- The suspension coil’s PSI continuous variable across all manufacturing lots
+-- The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 <img width="337" alt="Total_Summary_Image" src="https://user-images.githubusercontent.com/60076980/162355278-94bfa2aa-6906-4b2b-b85d-eb440eac3d43.png">
 
 <img width="502" alt="Lot_Summary_Image" src="https://user-images.githubusercontent.com/60076980/162355292-3b471d06-9e23-42e9-afbe-63b24fb32c9b.png">
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-
 ### T-test
+I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
 <img width="420" alt="T-Test_image_1" src="https://user-images.githubusercontent.com/60076980/162356491-e5319822-141f-41d4-8954-3ab2dfab321b.png">
 
 ### Lot 1
