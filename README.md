@@ -55,6 +55,7 @@ The p-value = 0.04168 and the mean = 1496.14 which is statistically different fr
 For many consumers the city and highway fuel efficiency are very important factors when purchasing a vehicle.To test MechaCar's fuel efficiency against the competition we will need to create a null and alternative hypothesis.
 
 **Null hypothesis-** MechaCar will not have a significantly higher MPG than the competition.
+
 **Alternative hypothesis-** MechaCar will have a significantly higher MPG than the competition.
 
 An ANOVA test can be used to find out if there are significant differences among the car makers. If yes, then a series of two-sample t-tests can be carried out to compare MechaCar against each individual competitor and find out the position of MechaCar amongst the competitors.
