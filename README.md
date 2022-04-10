@@ -40,20 +40,21 @@ The p value is .06 which is greater than 0.05 and is therefore not significant a
 <img width="420" alt="T-Test_image_1" src="https://user-images.githubusercontent.com/60076980/162356491-e5319822-141f-41d4-8954-3ab2dfab321b.png">
 
 ### Lot 1
-
+The p-value = 1 and the mean = 1500 which is not significantly different than the population mean.
 <img width="434" alt="T-Test_image_2" src="https://user-images.githubusercontent.com/60076980/162356501-575d6350-7278-4b3a-ae72-6b62494a5e88.png">
 
 ### Lot 2
+The p-value = 0.6072 and the mean = 1500.2, which is not significantly different than the population mean.
 <img width="415" alt="T_Test_image_3" src="https://user-images.githubusercontent.com/60076980/162356507-e38e74e3-e063-4b91-9154-0c3413207307.png">
 
 ### Lot 3
+The p-value = 0.04168 and the mean = 1496.14 which is statistically different from the population mean.
 <img width="419" alt="T_Test_image_4" src="https://user-images.githubusercontent.com/60076980/162356518-f0450494-fa74-4818-99bc-1a51ca45ebba.png">
 
 ## Study Design: MechaCar vs Competition
 For many consumers the city and highway fuel efficiency are very important factors when purchasing a vehicle.To test MechaCar's fuel efficiency against the competition we will need to create a null and alternative hypothesis.
 
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
-
 **Null hypothesis-** MechaCar will not have a significantly higher MPG than the competition.
 **Alternative hypothesis-** MechaCar will have a significantly higher MPG than the competition.
+
+An ANOVA test can be used to find out if there are significant differences among the car makers. If yes, then a series of two-sample t-tests can be carried out to compare MechaCar against each individual competitor and find out the position of MechaCar amongst the competitors.
